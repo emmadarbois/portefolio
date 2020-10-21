@@ -57,12 +57,12 @@ $(function () {
                         $("<strong>").text(
                             "Sorry " +
                                 firstName +
-                                ", it seems that my mail server is not responding. Please try again later!"
+                                ", it seems that my mail server is not responding. Please try on my LinkedIn page below instead !"
                         )
                     );
                     $("#success > .alert-danger").append("</div>");
                     //clear all fields
-                    $("#contactForm").trigger("reset");
+                    //$("#contactForm").trigger("reset");
                 },
                 complete: function () {
                     setTimeout(function () {
