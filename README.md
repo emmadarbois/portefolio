@@ -1,6 +1,3 @@
----
-permalink: /index.html
----
 
 # [Start Bootstrap - Agency](https://startbootstrap.com/themes/agency/)
 
